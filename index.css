@@ -1,0 +1,68 @@
+header{
+    position:sticky;
+    top: 0;
+}
+.navbar{
+    border-bottom: 5px solid rgb(179, 179, 16);
+    background-color: #01364e;
+    height: 80px;
+
+}
+.photo{
+    width: 100%;
+}
+.bottomPhoto{
+    text-align: center;
+    left: 0;
+    right: 0;
+    margin-top: -3px;
+}
+.text{
+    width: 80%;
+    margin: 0 auto;
+}
+h1, h4{
+    text-align: center;
+}
+p{
+    text-align: left;
+}
+.sectionPhoto{
+    width: 300px;
+    text-align: left;
+    margin-top: 90px;
+}
+.footerPhotoContainer{
+    margin-top: 50px;
+}
+.photoInnerMain{
+    margin-bottom: 30px;
+    transition: transform 1s ease-in-out 0s;
+}
+.photoInnerMain:hover{
+    transform:translatey(20px);
+}
+.footerLast{
+    background-color: #01364e;
+}
+.lastMain{
+    padding: 70px;
+    color: white;
+    border-bottom: 6px solid  rgb(179, 179, 16);
+}
+a:hover{
+    color:white;
+}
+.footerHead{
+    text-align: center;
+    display: block;
+    text-decoration: none;
+}
+.theLastMain{
+    padding: 50px;
+    color: white;
+}
+.theLast{
+    text-align: center;
+    display: block;
+}
